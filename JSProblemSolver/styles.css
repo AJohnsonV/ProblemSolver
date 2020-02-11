@@ -1,0 +1,131 @@
+.header {
+    width: 550px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.bottom {   
+    position: absolute;
+    width: 550px;
+    bottom: 0px;
+}
+
+.moveButton {
+    font-weight: bold;
+    font-size: 1em;
+    background-color: SaddleBrown;
+    color: Moccasin;
+}
+
+.right {      
+    width: 250px;
+    position: absolute;
+    right: 20px;
+}
+
+ul {          
+    list-style-type: none;
+}
+
+li {          
+    margin-left: -40px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+}
+
+.left {
+    width: 250px;
+    position: absolute;
+    left: 20px;
+    background-color: Moccasin;
+}
+
+.outer {
+    position: absolute; 
+    width: 550px;
+    height: 575px;
+    border: 5px solid gray;
+    padding: 10px;
+    margin: 10px;
+    background-color: LightBlue;
+}
+
+.justifyText {
+    text-align: justify;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.largeBold {
+    font-size: large;
+    font-weight: bold;
+}
+
+.emphasized {
+    color: FireBrick;
+}
+
+.button {
+    background-color: blue;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    margin: 25px;
+}
+
+.cgpanel {
+    background-color: crimson;
+    width: 500px;
+    height: 650px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 25px;
+}
+.movestext{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.nmtext{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+.byetext {
+    color: aqua;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 125px;
+}
+.congrats{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+.text {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 125px;
+}
+.finalstate{
+    background-color: moccasin;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 25px;
+
+}
